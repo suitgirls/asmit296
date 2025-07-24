@@ -1,7 +1,15 @@
-body {color:mediumaquamarine;
+body {color:deeppink;
      background-color: aquamarine;
+     font-family:'Times New Roman', Times, serif;
 
 }
-h1 {color:deeppink}
-h2{color: deeppink;}
+h1 {color:white;
+    background-color:palevioletred;
+    font-family:'Space Mono', monospace;}
+
+h2{color: deeppink;
+    font-family: 'Space Mono', monospace;}
+    nav{background-color: palevioletred;}
+nav a {color: white;}
+ nav{color:white}
 a{color:black}
