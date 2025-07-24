@@ -9,7 +9,10 @@ h1 {color:white;
 
 h2{color: deeppink;
     font-family: 'Space Mono', monospace;}
-    nav{background-color: palevioletred;}
+    nav{ 
+        padding: 10px;
+        margin-bottom:30px;
+        background-color: palevioletred;}
 nav a {color: white;}
  nav{color:white}
 a{color:black}
