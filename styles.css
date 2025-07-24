@@ -16,3 +16,10 @@ h2{color: deeppink;
 nav a {color: white;}
  nav{color:white}
 a{color:black}
+div{
+    border: 1px solid black;
+    margin:30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
